@@ -1,0 +1,5 @@
+container:
+  image: "4bb85r8g.gra7.container-registry.ovh.net/application/application-frontend"
+  tag: 7cf294f538d7d072cdb435c181614cc8223ebc95
+  port: 80
+  replicas: 2
